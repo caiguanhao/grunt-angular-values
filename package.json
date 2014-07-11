@@ -1,0 +1,23 @@
+{
+  "name": "grunt-angular-values",
+  "version": "0.0.0",
+  "description": "Convert YAML, JSON or plain text file to angular.value or angular.constant.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiguanhao/grunt-angular-values.git"
+  },
+  "keywords": [
+    "angular",
+    "value",
+    "constant",
+    "grunt",
+    "gruntplugin",
+    "grunt-plugin"
+  ],
+  "author": "Cai Guanhao (Choi Goon-ho)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiguanhao/grunt-angular-values/issues"
+  },
+  "homepage": "https://github.com/caiguanhao/grunt-angular-values"
+}
